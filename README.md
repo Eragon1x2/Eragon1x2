@@ -31,11 +31,8 @@ Programming is my favorite hobby besides basketball. I'm a second-year cybersecu
 - **MongoDB**: Experience with NoSQL databases and data modeling.
 - **Git & GitHub**: Version control and collaborative development.
 
-## Мои проекты:
+## My projects:
 
-- [libAlgort](https://github.com/Jekov-Evgen/libAlgort) - Это библиотека, реализованная на C++, на данный момент ее разработка продолжается.
-- [To-Do-List Django](https://github.com/Jekov-Evgen/Django_TO-DO-LIST) - Простенький веб-сервис на Django для сохранения списка дел.
+- [BrickByBrick](https://github.com/Eragon1x2/BrickByBrick) - It's a mini-game simulator of a construction company. The player will manage resources, complete orders, and grow their business.
+- [CandLeaf](https://github.com/Eragon1x2/candleaf) - is an e-commerce web application for selling candles and related products. The platform allows users to browse the product catalog, make orders, and manage their accounts easily.
 
-## Моя статистика на CodeWars:
-
-![CodeWars](https://www.codewars.com/users/jeeeek/badges/large)

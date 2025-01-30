@@ -2,7 +2,7 @@
 
 ## About me
 
-Programming is my favorite hobby besides basketball. I'm a second-year cybersecurity student.
+Hello! I'm a passionate developer who loves both programming and basketball. Currently, I'm pursuing a degree in Cybersecurity, and I'm always looking to learn new technologies and improve my skills. My main focus is on full-stack development, where I enjoy working with both frontend and backend technologies.
 
 ## My stack 🛠️
 

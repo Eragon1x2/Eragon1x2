@@ -16,10 +16,10 @@ Programming is my favorite hobby besides basketball. I'm a second-year cybersecu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
 </p>
 
-## Моя активность на GitHub:
+## My GitHub activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jekov-Evgen&show_icons=true&theme=radical" alt="Статистика GitHub" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eragon1x2&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Статистика GitHub" width="500"/>
 </p>
 
 ## Мои навыки:

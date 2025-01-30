@@ -22,15 +22,14 @@ Programming is my favorite hobby besides basketball. I'm a second-year cybersecu
   <img src="https://github-readme-stats.vercel.app/api?username=eragon1x2&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Статистика GitHub" width="500"/>
 </p>
 
-## Мои навыки:
+## My Skills:
 
-- **C++**: Сильная база этого языка, умение разрабатывать в парадигме ООП.
-- **Python**: Разработка десктопных приложений и веб-сервисов.
-- **Django**: Разработка веб-сервисов, есть куда расти.
-- **HTML & CSS**: Базовые навыки работы.
-- **Git & GitHub**: Умение слаженно работать в команде с использованием данной технологии.
-- **PyQT & Tkinter**: Разработка десктоп-приложений.
-- **C# & WPF**: Начальный уровень знаний.
+- **JavaScript**: Strong foundation, experience in frontend and backend development.
+- **React**: Building dynamic and responsive user interfaces.
+- **HTML & CSS**: Confident in creating structured and styled web pages.
+- **Node.js & Express.js**: Backend development, building REST APIs.
+- **MongoDB**: Experience with NoSQL databases and data modeling.
+- **Git & GitHub**: Version control and collaborative development.
 
 ## Мои проекты:
 

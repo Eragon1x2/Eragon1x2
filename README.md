@@ -4,8 +4,6 @@
 
 Hi, I'm **Yevhen**, a **Full-Stack Engineer** with a heavy focus on **Performance Optimization** and **Web Security**. Currently pursuing a degree in **Cybersecurity**, which directly shapes how I build applications — I don't just write code that works, I build fast, secure, and production-ready software.
 
-When I'm not auditing code for vulnerabilities or squeezing milliseconds out of bundle sizes, you can find me on a basketball court 🏀.
-
 ---
 
 ## My Tech Stack & Tooling 🛠️
@@ -42,7 +40,7 @@ When I'm not auditing code for vulnerabilities or squeezing milliseconds out of 
 *   **⚡ Web Performance:** Obsessed with Core Web Vitals, code-splitting, bundle-size reduction (shaved 43% off in recent B2B SaaS project), and deep caching strategies.
 *   **🔒 AppSec & Pentesting:** Applying my Cybersecurity academic background to audit full-stack apps for XSS, SQLi, BOLA, JWT attacks, and modern LLM Prompt Injections.
 *   **🤖 Modern Dev Workflows:** Leveraging AI-assisted coding environments (Cursor/Windsurf) and ultra-fast next-gen tooling (Bun, Biome) to supercharge shipping speed.
-*   **🌐 End-to-End Type Safety:** Designing robust Python (FastAPI/Django) backends synchronized with TypeScript frontends for strict runtime and compile-time data validation[cite: 1].
+*   **🌐 End-to-End Type Safety:** Designing robust Python (FastAPI/Django) backends synchronized with TypeScript frontends for strict runtime and compile-time data validation.
 
 ---
 
@@ -57,4 +55,4 @@ When I'm not auditing code for vulnerabilities or squeezing milliseconds out of 
 ## Connect with me 🤝
 
 *   💼 **LinkedIn:** [linkedin.com/in/yevhen-hoha](https://linkedin.com/in/yevhen-hoha)
-*   📧 **Email:** yevhenhoha.dev@gmail.com[cite: 1]
+*   📧 **Email:** yevhenhoha.dev@gmail.com

@@ -1,58 +1,63 @@
-# Welcome to my GitHub space! ⚡
+# Hi, I'm Yevhen 👋
 
-## About me
+I'm a **Full-Stack Engineer** with 2.5+ years of commercial experience building web applications with **React, Next.js, TypeScript, and Python/FastAPI**.
 
-Hi, I'm **Yevhen**, a **Full-Stack Engineer** with a heavy focus on **Performance Optimization** and **Web Security**. Currently pursuing a degree in **Cybersecurity**, which directly shapes how I build applications — I don't just write code that works, I build fast, secure, and production-ready software.
+I care about three things in particular: **performance, security, and maintainable code**.
 
----
+I enjoy working across the stack — from building polished frontend interfaces to designing APIs, improving application performance, and finding security issues before they become production problems.
 
-## My Tech Stack & Tooling 🛠️
+## What I work with
 
-### Languages & Runtimes
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/>
-</p>
+**Frontend**
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Vite
 
-### Frameworks & Ecosystem
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-line.svg" title="Next.js" alt="Next.js" width="40" height="40" style="margin-right: 10px; filter: invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" style="margin-right: 10px; filter: invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="40" height="40" style="margin-right: 10px;"/>
-</p>
+**Backend**
+- Python
+- FastAPI
+- REST APIs
+- PostgreSQL
+- SQLite
 
-### Infrastructure, DB & Tooling
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="margin-right: 10px;"/>
-</p>
+**Engineering**
+- Performance optimization
+- Core Web Vitals
+- Code splitting & bundle optimization
+- Refactoring & legacy code
+- CI/CD
+- Docker
 
----
+**Security**
+- XSS
+- SQL Injection
+- BOLA / IDOR
+- JWT & authentication
+- Application Security
+- Web security testing
 
-## Core Focus Areas 🎯
+## Highlights
 
-*   **⚡ Web Performance:** Obsessed with Core Web Vitals, code-splitting, bundle-size reduction (shaved 43% off in recent B2B SaaS project), and deep caching strategies.
-*   **🔒 AppSec & Pentesting:** Applying my Cybersecurity academic background to audit full-stack apps for XSS, SQLi, BOLA, JWT attacks, and modern LLM Prompt Injections.
-*   **🤖 Modern Dev Workflows:** Leveraging AI-assisted coding environments (Cursor/Windsurf) and ultra-fast next-gen tooling (Bun, Biome) to supercharge shipping speed.
-*   **🌐 End-to-End Type Safety:** Designing robust Python (FastAPI/Django) backends synchronized with TypeScript frontends for strict runtime and compile-time data validation.
+- ⚡ Reduced a production frontend bundle by **43%**
+- 🔧 Refactored **3,000+ lines** of legacy code
+- 🔒 Worked on security issues including **XSS, BOLA/IDOR, and JWT vulnerabilities**
+- 🚀 Built and maintained production SaaS applications
+- 🐍 Built backend services and REST APIs with **FastAPI**
 
----
+## What I'm currently working on
 
-## My GitHub activity:
+- Building **Triviador+**, a browser-based multiplayer game
+- Improving my **Application Security** and bug bounty skills
+- Building full-stack projects with React, Next.js and FastAPI
+- Exploring better ways to combine secure engineering with fast product development
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eragon1x2&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Yevhen's GitHub Stats" width="500"/>
-</p>
+## Featured projects
 
----
+> 🚧 I'm currently updating my repositories and adding detailed documentation to my main projects.
 
-## Connect with me 🤝
+## Connect
 
-*   💼 **LinkedIn:** [linkedin.com/in/yevhen-hoha](https://linkedin.com/in/yevhen-hoha)
-*   📧 **Email:** yevhenhoha.dev@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/yevhen-hoha)
+- 📧 [Email](mailto:yevhenhoha.dev@gmail.com)
